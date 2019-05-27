@@ -1,0 +1,4 @@
+#Sun May 26 23:53:49 WET 2019
+base.0=/Users/mac/Downloads/rab_mh-firebase_chat-471747990165/build-android-start/app/build/intermediates/transforms/dexMerger/debug/2
+path.0=classes.dex
+renamed.0=classes.dex

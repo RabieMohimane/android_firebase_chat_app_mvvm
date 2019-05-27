@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "799991447215",
+    "firebase_url": "https://adria-d3ac9.firebaseio.com",
+    "project_id": "adria-d3ac9",
+    "storage_bucket": "adria-d3ac9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799991447215:android:b5d75907de594a2d",
+        "android_client_info": {
+          "package_name": "com.google.firebase.codelab.friendlychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799991447215-nsj6jdiqk3tq61me8pdoapsqek2a2o15.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.firebase.codelab.friendlychat",
+            "certificate_hash": "9fd9d9f9ee03a52fcc2ae17efd0a03d3e596c84b"
+          }
+        },
+        {
+          "client_id": "799991447215-isqk4o5m2fcq58hd8l7b61qalcmvlhup.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.firebase.codelab.friendlychat",
+            "certificate_hash": "ac620e31dc7b5eebdd4f943d20529406652b360c"
+          }
+        },
+        {
+          "client_id": "799991447215-jr8e17hldf33716mqs99ni3gamkpbifs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARRFVkn3jwDtVI0Gzbio2j8FKpsYc6evU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "799991447215-jr8e17hldf33716mqs99ni3gamkpbifs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

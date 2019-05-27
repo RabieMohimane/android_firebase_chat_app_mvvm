@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="23"
+    build-mode="COLD"
+    density="xhdpi"
+    format="10"
+    ir-eligibility="SYNTHETIC_CONSTRUCTOR_CHANGE"
+    pid="7455@MBP-de-mac"
+    plugin-version="3.4.0"
+    timestamp="1558915730047"
+    token="-5616610667858343271"
+    verifier="COLD_SWAP_REQUESTED"
+    version="23" >
+
+    <task
+        name="javac"
+        duration="520" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="115" />
+    <task
+        name="verifier"
+        duration="3" />
+
+    <artifact
+        location="/Users/mac/Downloads/rab_mh-firebase_chat-471747990165/build-android-start/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/mac/Downloads/rab_mh-firebase_chat-471747990165/build-android-start/app/build/intermediates/instant-run-apk/debug/app-debug.apk"
+        type="SPLIT_MAIN" />
+
+    <build
+        build-mode="FULL"
+        timestamp="1558915418106"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/mac/Downloads/rab_mh-firebase_chat-471747990165/build-android-start/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/mac/Downloads/rab_mh-firebase_chat-471747990165/build-android-start/app/build/intermediates/instant-run-apk/debug/app-debug.apk"
+            type="SPLIT_MAIN" />
+        <artifact
+            location="/Users/mac/Downloads/rab_mh-firebase_chat-471747990165/build-android-start/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/mac/Downloads/rab_mh-firebase_chat-471747990165/build-android-start/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/mac/Downloads/rab_mh-firebase_chat-471747990165/build-android-start/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/mac/Downloads/rab_mh-firebase_chat-471747990165/build-android-start/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/mac/Downloads/rab_mh-firebase_chat-471747990165/build-android-start/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/mac/Downloads/rab_mh-firebase_chat-471747990165/build-android-start/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/mac/Downloads/rab_mh-firebase_chat-471747990165/build-android-start/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/mac/Downloads/rab_mh-firebase_chat-471747990165/build-android-start/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/mac/Downloads/rab_mh-firebase_chat-471747990165/build-android-start/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/mac/Downloads/rab_mh-firebase_chat-471747990165/build-android-start/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
+            type="SPLIT" />
+    </build>
+    <build
+        build-mode="COLD"
+        ir-eligibility="CLASS_ADDED"
+        timestamp="1558915597889"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/Users/mac/Downloads/rab_mh-firebase_chat-471747990165/build-android-start/app/build/intermediates/instant-run-apk/debug/app-debug.apk"
+            type="SPLIT_MAIN" />
+    </build>
+    <build
+        build-mode="COLD"
+        ir-eligibility="SYNTHETIC_CONSTRUCTOR_CHANGE"
+        timestamp="1558915730047"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/Users/mac/Downloads/rab_mh-firebase_chat-471747990165/build-android-start/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/mac/Downloads/rab_mh-firebase_chat-471747990165/build-android-start/app/build/intermediates/instant-run-apk/debug/app-debug.apk"
+            type="SPLIT_MAIN" />
+    </build>
+
+</instant-run>

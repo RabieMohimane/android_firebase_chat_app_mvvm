@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sun May 26 23:53:38 WET 2019
+0.baseType=DIRECTORY
+0.base=/Users/mac/Downloads/rab_mh-firebase_chat-471747990165/build-android-start/app/build/intermediates/merged_assets/debug/out
+0.path=crashlytics-build.properties
+0.set=ASSET
+count=1
